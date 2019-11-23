@@ -9,10 +9,9 @@ Rzeczy zrobione:
 - Zwiększanie wyniku,
 - Tło,
 - Sufit i podłoga,
-- Ekran "pośmiertny" - wizualnie do dopracowania
+- Ekran "pośmiertny"
+- Restartowanie poziomu po "śmierci" gracza,
+- Przyspieszanie gry w ramach zwiekszania się wyniku
 
 Proponowane rzeczy do zrobienia:
-- Restartowanie poziomu po "śmierci" gracza,
-- Dodanie najwyższego wyniku (np. nadpisanie zmiennej statycznej highScore gdy zmienna statyczna score jest większa),
-- Upiększenie gry (np. zmiana czcionki na bardziej widoczna),
-- Przyspieszanie gry w ramach zwiekszania się wyniku
+- Dodanie najwyższego wyniku (np. nadpisanie zmiennej statycznej highScore gdy zmienna statyczna score jest większa)
