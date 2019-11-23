@@ -20,10 +20,17 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
+<<<<<<< HEAD
+  m_MinSize: {x: 679, y: 474}
+  m_MaxSize: {x: 12004, y: 14024}
+  vertical: 0
+  controlID: 102
+=======
   m_MinSize: {x: 508, y: 498}
   m_MaxSize: {x: 12008, y: 14048}
   vertical: 0
   controlID: 118
+>>>>>>> master
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,10 +132,17 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 731
+<<<<<<< HEAD
+  m_MinSize: {x: 679, y: 474}
+  m_MaxSize: {x: 12004, y: 14024}
+  vertical: 1
+  controlID: 103
+=======
   m_MinSize: {x: 508, y: 498}
   m_MaxSize: {x: 12008, y: 14048}
   vertical: 1
   controlID: 119
+>>>>>>> master
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,10 +165,17 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 451
+<<<<<<< HEAD
+  m_MinSize: {x: 679, y: 224}
+  m_MaxSize: {x: 12004, y: 4024}
+  vertical: 0
+  controlID: 104
+=======
   m_MinSize: {x: 508, y: 224}
   m_MaxSize: {x: 12008, y: 4024}
   vertical: 0
   controlID: 120
+>>>>>>> master
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -212,7 +233,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
+      m_ExpandedIDs: 02fbffff
+=======
       m_ExpandedIDs: dcfbffff
+>>>>>>> master
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -388,9 +413,15 @@ MonoBehaviour:
     y: 0
     width: 449
     height: 451
+<<<<<<< HEAD
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 11}
+=======
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 12}
+>>>>>>> master
   m_Panes:
   - {fileID: 11}
   - {fileID: 12}
@@ -525,21 +556,35 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets
+=======
     - Assets/imgs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/imgs
+>>>>>>> master
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\Karolina\\Downloads\\Podr\u0119czne\\Szko\u0142a
-    - Semestr V\\Programowanie Gier\\GIT\\trunk"
+    - Semestr V\\Programowanie Gier\\GIT\\branches\\Angi13-patch-1"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+    m_SelectedIDs: 7c2a0000
+    m_LastClickedID: 10876
+    m_ExpandedIDs: 000000007c2a000000ca9a3b
+=======
     m_SelectedIDs: 5e260000
     m_LastClickedID: 9822
     m_ExpandedIDs: 000000002e26000000ca9a3bffffff7f
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -567,7 +612,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
+    m_ExpandedIDs: 000000007c2a0000
+=======
     m_ExpandedIDs: 000000002e260000
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,9 +641,15 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
+<<<<<<< HEAD
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+=======
     m_SelectedInstanceIDs: c0280000
     m_LastClickedInstanceID: 10432
     m_HadKeyboardFocusLastEvent: 1
+>>>>>>> master
     m_ExpandedInstanceIDs: c62300008a5600002e2700008a0a00000a0a000000000000422e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
