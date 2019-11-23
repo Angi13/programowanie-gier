@@ -6,21 +6,8 @@ public class ObstaclesMove : MonoBehaviour
 {
     public float speed;
 
-
-    // Start is called before the first frame update
-    void Start()
+    void Update()
     {
-        
-    }
-
-// Update is called once per frame
-void Update()
-    {
-
         transform.position += Vector3.left * speed * Time.deltaTime;
-       
     }
 }
-        
-   
-
