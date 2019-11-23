@@ -5,16 +5,14 @@ using UnityEngine;
 public class PlayerControls : MonoBehaviour
 {
     public GameManager gameManager;
-    public float velocity = 1;
+    public float velocity;
     Rigidbody2D rb;
 
-    // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Space))
@@ -27,5 +25,4 @@ public class PlayerControls : MonoBehaviour
     {
         gameManager.GameOver();
     }
-
 }

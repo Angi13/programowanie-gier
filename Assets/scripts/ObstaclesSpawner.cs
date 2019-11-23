@@ -9,15 +9,12 @@ public class ObstaclesSpawner : MonoBehaviour
     public GameObject obstacles;
     public float height;
 
-
-    // Start is called before the first frame update
     void Start()
     {
         GameObject newObstacles = Instantiate(obstacles);
         newObstacles.transform.position = transform.position + new Vector3(0, Random.Range(-height, height), 0);
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (timer > maxTime)
