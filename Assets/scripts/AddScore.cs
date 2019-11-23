@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class AddScore : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
+
+    public void OnTriggerEnter2D(Collider2D collision)
     {
         ScoreCounter.score++;
+        Time.timeScale = Time.timeScale + 0.25F;
     }
 }
